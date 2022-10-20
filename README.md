@@ -1,6 +1,10 @@
-### João Rocha da Silva, Experienced Software Developer
+### João Rocha da Silva
 
-For more information about me, check out [The Caffeinated Engineer](https://silvae86.github.io/) !
+I am an experienced software developer, with a Ph.D. in Software Engineering. I worked with many different technologies and on many areas of business. 
+
+For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/).
+
+Cheers!
 
 <!--
 **silvae86/silvae86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
