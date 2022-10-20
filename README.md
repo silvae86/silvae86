@@ -1,6 +1,6 @@
 ### João Rocha da Silva
 
-I am an experienced software developer, with a Ph.D. in Software Engineering. I worked with many different technologies and on many areas of business. 
+I am an experienced software developer, with an MSc. and Ph.D. in Informatics Engineering. I worked at startups and multi-national companies, with many different technologies and on many areas of business. 
 
 For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/).
 
