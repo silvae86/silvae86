@@ -1,4 +1,4 @@
-### João Rocha da Silva, Software Developer
+### João Rocha da Silva, Experienced Software Developer
 
 For more information about me, check out [The Caffeinated Engineer](https://silvae86.github.io/) !
 
