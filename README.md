@@ -1,10 +1,10 @@
 ### João Rocha da Silva
 
-I am an experienced software developer, with an MSc. and Ph.D. in Informatics Engineering. I worked at startups and multi-national companies, with many different technologies and on many areas of business. 
+I am an experienced software developer, with an MSc. and Ph.D. in Informatics Engineering. I delivered products at every level, from startups to multi-national companies, using many different technologies and on distinct areas of business. 
 
-For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/).
+For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/), or drop me a message at joaorosilva at gmail dot com.
 
-Cheers!
+All the best! 😄
 
 <!--
 **silvae86/silvae86** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
