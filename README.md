@@ -1,6 +1,8 @@
 ### João Rocha da Silva
 
-I am an experienced full-stack software developer, with an MSc. and Ph.D. in Informatics Engineering. I worked at both startups and multi-national companies, using many different technologies and on distinct areas of business. 
+I am an experienced full-stack software developer, with an MSc. and Ph.D. in Informatics Engineering. 
+
+I worked at both startups and multi-national companies, using many different technologies and on distinct areas of business. 
 
 For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/), or drop me a message at joaorosilva at gmail dot com.
 
