@@ -4,7 +4,9 @@ I am an experienced full-stack software developer, with an MSc. and Ph.D. in Inf
 
 I worked at both startups and multi-national companies, using many different technologies and on distinct areas of business. 
 
-For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/), or drop me a message at joaorosilva at gmail dot com.
+For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/), check out my LinkedIn profile, or drop me a message at joaorosilva at gmail dot com.
+
+- [Linkedin](https://www.linkedin.com/in/joaomiguelsilva/)
 
 All the best! 😄
 
