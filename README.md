@@ -1,8 +1,8 @@
 ### João Rocha da Silva
 
-I am an experienced full-stack software developer, with an MSc. and Ph.D. in Informatics Engineering. 
+I am an experienced full-stack software developer, with an MSc. and Ph.D. in Informatics Engineering, currently working as a Software Engineer at [Times Higher Education](https://www.timeshighereducation.com/)'s World University Rankings.
 
-I worked at both startups and multi-national companies, using many different technologies and on distinct areas of business. 
+Previously worked at both startups and multi-national companies, using many different technologies and distinct areas of business, including AI-powered Healthcare, worldwide Logistics and Analytics producs. 
 
 For more information, check out [The Caffeinated Engineer](https://silvae86.github.io/), check out my LinkedIn profile, or drop me a message at joaorosilva at gmail dot com.
 
